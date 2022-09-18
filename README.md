@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Alamin Hossain</h1>
 <h3 align="center">Frontend Developer | JavaScript | React JS | Node.js | Tailwind => Actively looking for React | Frontend Role | ✉️ DMs are always OPEN ✉️|</h3>
-<h3>
+<h3>About Me</h3>
+<p>
 I am Alamin Hossain from Bangladesh. Front-End Developer with a background in Civil Engineering and teaching.
 
 I'm passionate about Building useful Internet products and fulfilling my love and passion for coding by building useful Internet products, Web apps, and Websites.
@@ -10,14 +11,6 @@ I'm passionate about Building useful Internet products and fulfilling my love an
 In my free time, I enjoy playing badminton with my friends, Exercising regularly, and eating very healthy homemade food. I am a simple man living a simple and happy life.
 
 Experience with HTML5, CSS3, Javascript, React JS, Node.js, Tailwind, and Bootstrap. Feel free to connect or message me if you want to collaborate on any projects. I would be delighted to connect and hear from you.
-
-My Services Are:
-
-✅ Build React Js website with Mobile Responsive Bootstrap / Tailwind
-✅ Theme Creation from PSD,Figma to HTML/CSS3/React JS
-✅ JavaScript / Tailwind / Bootstrap / HTML5 / CSS3
-✅ Web App Using React Js, Node Js
-✅ Website Fixing
 
 Tech Highlights:
 ☑ Java Script
@@ -36,7 +29,7 @@ For Instant Inquiry:
 
 Thank You
 Md Alamin Hossain
-</h3>
+</p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
