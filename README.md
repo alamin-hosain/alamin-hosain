@@ -62,5 +62,5 @@ Md Alamin Hossain
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamin-hosain&show_icons=true&locale=en" alt="alamin-hosain" /></p>
 <h2>📈 Current Stats</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-hosain&" alt="alamin-hosain" /></p>
-
+<h2>🏴 Most Used Languages</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin-hosain&show_icons=true&locale=en&layout=compact" alt="alamin-hosain" /></p>
